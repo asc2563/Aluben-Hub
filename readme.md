@@ -43,5 +43,5 @@ originaly there was all of the files and Aluben services all not fully connected
 ## link
 
 ```
-https://aluben-hub.allister189o.repl.co/
+https://is.gd/AlubenHub
 ```
