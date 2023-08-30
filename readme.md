@@ -38,7 +38,7 @@ originaly there was all of the files and Aluben services all not fully connected
 
 # smart decisions
 
-- since we want to save time we made it so if you update the javascript or css of a individual file it will update Aluben Hub by using a script or css tag like this: "<script src=URL of website/script.js>" or "link href="url of website/style.css" rel=stylesheet type="text/css">" with the other html thing(<>)
+since we want to save time we made it so if you update the javascript or css of a individual file it will update Aluben Hub by using a script or css tag like this: "<script src=URL of website/script.js>" or "link href="url of website/style.css" rel=stylesheet type="text/css">" with the other html thing(<>)
 
 ## link
 
