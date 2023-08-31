@@ -12,7 +12,7 @@ https://is.gd/Alubendiscord
 - has procky list
 - has Aluben W-P
 
-<img src="https://aluben-hub.allister189o.repl.co/assets/images/logo.png">
+<img src="./assets/images/logo.png">
 
 ## credits
 
