@@ -2,7 +2,7 @@
 
 join the Aluben discord
 
-https://is.gd/Alubendiscord
+<a href='https://is.gd/Alubendiscord'>Aluben discord</a>
 
 ##
 

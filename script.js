@@ -11,5 +11,5 @@ function proxy() {
 }
 
 function discord() {
-  window.open("https://discord.gg/Jeybsy2us4");
+  window.open("https://is.gd/Alubendiscord");
 }
