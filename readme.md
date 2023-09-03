@@ -1,5 +1,7 @@
 # Aluben Hub
+
 <!--also for credits the first name is who did the most work on the credit-->
+
 join the Aluben discord
 
 <a href='https://is.gd/Alubendiscord'>Aluben discord</a>
@@ -36,6 +38,7 @@ Logo: MUSHROOM and I don't codddde
 <br>
 overall: I don't codddde
 <br>
+
 ### about
 
 originaly there was all of the files and Aluben services all not fully connected then <br>Aluben Hub came along the Idea of having all of them connected was very very smart so we did it.
