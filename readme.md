@@ -4,7 +4,7 @@
 
 join the Aluben discord
 
-<a href='https://is.gd/Alubendiscord'>Aluben discord</a>
+<a href='https://is.gd/Alubendiscord'>Aluben discord</a>        
 
 ##
 
@@ -15,6 +15,7 @@ join the Aluben discord
 - has Aluben W-P
 
 <img src="./assets/images/logo.png">
+<img src="./assets/images/oldlogo.png">
 
 ## credits
 
@@ -33,6 +34,8 @@ readme: I don't codddde
 images: I don't codddde and Destructivegwy
 <br>
 files: I don't codddde and Destructivegwy
+<br>
+oldlogo: MUSHROOM
 <br>
 overall: I don't codddde
 <br>
