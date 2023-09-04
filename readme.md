@@ -1,8 +1,10 @@
 # Aluben Hub
 
+<!--also for credits the first name is who did the most work on the credit-->
+
 join the Aluben discord
 
-https://is.gd/Alubendiscord
+<a href='https://is.gd/Alubendiscord'>Aluben discord</a>        
 
 ##
 
@@ -13,6 +15,7 @@ https://is.gd/Alubendiscord
 - has Aluben W-P
 
 <img src="./assets/images/logo.png">
+<img src="./assets/images/oldlogo.png">
 
 ## credits
 
@@ -31,6 +34,11 @@ readme: I don't codddde
 images: I don't codddde and Destructivegwy
 <br>
 files: I don't codddde and Destructivegwy
+<br>
+oldlogo: MUSHROOM
+<br>
+overall: I don't codddde
+<br>
 
 ### about
 
