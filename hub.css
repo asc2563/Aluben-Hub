@@ -15,7 +15,14 @@ button {
   margin: 5px;
   cursor: pointer;
 }
-
+button:hover{
+    transition : 1000ms;
+    padding: 10px 50px;
+    transform : translateY(-0px);
+    background-color: #03002b;
+    color: floralwhite;
+    border: solid 4px red;
+  }
 input[type="text"] {
   height: 2px;
   width: 480px;
