@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <!--error-->
+<!--error-->
+
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="keywords"
-      content="Proxy,Epic,Unblocker,Unblocked Games, School Unblocker,Unblocked,Kazwire"
-    />
-    <meta
-      name="description"
-      content="A good proxy with a  custom unblocker and a proxy list bulit in games it's amazing"
-    />
+    <meta name="keywords" content="Proxy,Epic,Unblocker,Unblocked Games, School Unblocker,Unblocked,Kazwire" />
+    <meta name="description"
+      content="A good proxy with a  custom unblocker and a proxy list bulit in games it's amazing" />
     <title>Aluben</title>
     <meta charset="UTF-8" />
     <link href="https://aluben.allister189o.repl.co/style.css" rel="stylesheet" type="text/css" />
@@ -20,18 +16,63 @@
         color: white;
       }
     </style>
-
-    <b><a id="Aluben" href="Aluben.html"><img src="https://aluben.allister189o.repl.co/assets/images/Aluben-temp-logo.jpeg"/></a></b>
-    <br/>
+    <b><a id="Aluben" href="#"><img src="https://aluben.allister189o.repl.co/assets/images/Aluben-logo.jpeg" /></a></b>
+    <br />
     Aluben so cool wow!!
-    <br/>
+    <br />
   </head>
+  
+  
 
   <body style="background-color: black">
-    <br/>
-    <button class="button" type="button" onclick="credits()">Credits</button>
-  <button class="button" type="button" 
-    onclick="calculator()">Calculator</button>
+    <style>
+    /* Define styles for the custom alert */
+    .custom-alert{
+      display: center;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: black;
+      color: white;
+      border: 1px solid blue;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+    }
+    #hi {
+      border: 2px solid blue;
+    }
+  </style>
+    <script>
+      var passcode;
+    </script>
+
+  <!-- Custom alert with ID and class -->
+  <div id="myCustomAlert" class="custom-alert" style="
+    position: absolute;
+top: 180px;">
+    Welcome to Aluben, Set Passcode<br/>
+      
+    <input type="text" id="hi" onchange="passcode = this.value; console.log(''+ passcode +'')"></input> 
+    <button onclick = "hideCustomAlert()">Comfirm</button>
+  </div>
+  <script>
+    function showCustomAlert() {
+      var customAlert = document.getElementById("myCustomAlert");
+      customAlert.style.display = "block";
+    }
+
+    function hideCustomAlert() {
+      var customAlert = document.getElementById("myCustomAlert");
+      customAlert.style.display = "none";
+    }
+  </script>
+    <br />
+    <button class="button" type="button" onclick="credits()">Credits
+    </button>
+    <button class="button" type="button" onclick="calculator()">Calculator
+    </button>
     <button class="button" type="button" onclick="games()">
       Iceland games
     </button>
@@ -48,37 +89,35 @@
     <button class="button" type="button" onclick="discord()">
       Join Discord
     </button>
-    <br/><br/>
+    <br /><br />
 
     &copy; Aluben Services 2023 inc all rights reserved
     <br />
-  </body>
-</html>
-<!DOCTYPE html>
-<html>
-​
-<body onload="startTime()">
-​
-<div id="txt"></div>
-​
-<script>
-function startTime() {
-  const today = new Date();
-  let h = today.getHours();
-  let m = today.getMinutes();
-  let s = today.getSeconds();
-  m = checkTime(m);
-  s = checkTime(s);
-  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
-  setTimeout(startTime, 1000);
-}
-​
-function checkTime(i) {
-  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-  return i;
-}
-</script>
-<div id="r4-widget-form"></div>
+
+    <body id="timer" onload="startTime()">
+      ​
+      <div id="txt"></div>
+      ​
+      <script>
+        function startTime() {
+          const today = new Date();
+          let h = today.getHours();
+          let m = today.getMinutes();
+          let s = today.getSeconds();
+          m = checkTime(m);
+          s = checkTime(s);
+          document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
+          setTimeout(startTime, 1000);
+        }
+
+        function checkTime(i) {
+          if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+          return i;
+        }
+      </script>
+
+    </body>
+      <div id="r4-widget-form"></div>
         	<p>Rammerhead</p>
 	<select id="rammerhead">
                 <option value="">Select a link...</option>
@@ -697,6 +736,7 @@ function checkTime(i) {
 				window.location = selectedValue;
 			}
 		}
-	</script>​
-</body>
+	</script>
+  </body>
+
 </html>
