@@ -36,8 +36,7 @@ images: I don't codddde and Destructivegwy
 files: I don't codddde and Destructivegwy
 <br>
 oldlogo: MUSHROOM
-<br>
-overall: I don't codddde
+<br><br>
 <br>
 
 ### about
